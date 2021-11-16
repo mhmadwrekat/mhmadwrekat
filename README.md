@@ -9,7 +9,7 @@
 
 ---
 ## My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadwrekat&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=49FF00)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadwrekat&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
 <!---
 mhmadwrekat/mhmadwrekat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
