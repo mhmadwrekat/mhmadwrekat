@@ -4,14 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @mhmmadwreekkat@gmail.com
 
+---
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadwrekat&theme=outrun)
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadwrekat&show_icons=true&theme=outrun)
 
-## My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdallah-alabed&show_icons=true&theme=tokyonight)
-
+---
 ## Contact me
 <a href="https://twitter.com/wrekatmhmad">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"height=30px />
