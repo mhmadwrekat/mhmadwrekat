@@ -13,23 +13,23 @@
 ---
 ## Contact me
 <a href="https://twitter.com/wrekatmhmad">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"height=30px />
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"width=100px height=30px />
 </a>
 <br>
 <a href="https://wa.me/+962798596928" target='_balnk'>
-<img alt="watsapp" src="https://static.facebook.com/images/whatsapp/www/whatsapp-promo.png"width=100px height=30px />
+<img alt="watsapp" src="https://www.klma.org/wp-content/uploads/2014/12/whatsapp-logo.jpg"width=100px height=30px />
 </a>
 <br>
 <a href="https://www.facebook.com/profile.php?id=100010107875359">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"height=30px />
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"width=100px height=30px />
 </a>
 <br>
 <a href="https://www.instagram.com/mhmadwrekatt?r=nametag">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=30px/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"width=100px height=30px/>
 </a>
 <br>
 <a href="https://www.linkedin.com/in/mohammad-alwrekat">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30px  />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"width=100px height=30px />
 </a>
 
 
