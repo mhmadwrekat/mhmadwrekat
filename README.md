@@ -4,11 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @mhmmadwreekkat@gmail.com
 
-## Top languages :
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadwrekat&theme=outrun)
 
 ---
-## My Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadwrekat&show_icons=true&theme=outrun)
 
 ## My Stats:
