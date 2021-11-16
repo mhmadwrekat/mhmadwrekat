@@ -5,11 +5,11 @@
 - 📫 How to reach me @mhmmadwreekkat@gmail.com
 
 ## Top languages :
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadwrekat&theme=tokyonight)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadwrekat&theme=outrun)
 
 ---
 ## My Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadwrekat&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadwrekat&show_icons=true&theme=outrun)
 <!---
 mhmadwrekat/mhmadwrekat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
