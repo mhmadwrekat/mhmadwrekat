@@ -1,7 +1,6 @@
 - Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=25px /> , I’m [Mohammad Alwrekat....](https://agitated-poincare-7eb6b0.netlify.app)
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @mhmmadwreekkat@gmail.com
 
 ---
