@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Gmail...](mhmmadwreekkat@gmail.com)
+- 📫 How to reach me [Gmail...](www.mhmmadwreekkat@gmail.com)
 
 ## Top languages :
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmadwrekat&theme=tokyonight)
