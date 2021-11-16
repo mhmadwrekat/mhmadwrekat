@@ -17,7 +17,7 @@
 </a>
 <br>
 <a href="https://wa.me/+962798596928" target='_balnk'>
-<img alt="watsapp" src="https://img.shields.io/badge/watsapp-3E7C17?style=for-the-badge&logo=watsapp&logoColor=white"width=100px height=30px />
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-3E7C17?style=for-the-badge&logo=WhatsApp&logoColor=white"width=100px height=30px />
 </a>
 <br>
 <a href="https://www.facebook.com/profile.php?id=100010107875359">
