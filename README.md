@@ -17,7 +17,7 @@
 </a>
 
 <a href="https://wa.me/+962798596928" target='_balnk'>
-<img alt="watsapp" src="https://static.facebook.com/images/whatsapp/www/whatsapp-promo.png"width=30px height=30px />
+<img alt="watsapp" src="https://static.facebook.com/images/whatsapp/www/whatsapp-promo.png"width=100px height=30px />
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100010107875359">
